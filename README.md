@@ -1,6 +1,6 @@
 # Repositório para scripts do primeiro projeto do curso de Linux!
 
-Nesse projeto, exploramos o gerenciamento de usuário, grupos e permissões através dos exercicios propostos:  
+Nesse projeto, exploramos o gerenciamento de usuário, grupos e permissões através dos exercícios propostos:  
 
 ```
 Remover diretórios, arquivos, grupos e usuários criados anteriormente.
