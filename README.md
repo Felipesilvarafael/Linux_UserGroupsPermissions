@@ -13,7 +13,7 @@ Todos os usuários terão permissões totais dentro do diretório público.
 
 Os usuários de cada grupo terão acesso total ao seu respectivo diretório.
 
-Os usuários não terão permissão de leitura, escrita e execução nos diretórios de departamentos aos quais não pertencem.  
+Os usuários não terão permissão de leitura, escrita e execução nos diretórios de departamentos aos quais não pertencem<br> 
 
 Fazer upload dos scripts criados para o GitHub através do Git.
 ```
