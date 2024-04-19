@@ -18,7 +18,6 @@ Os usuários não terão permissão de leitura, escrita e execução nos diretó
 Fazer upload dos scripts criados para o GitHub através do Git.
 ```
 
-Os usuários não terão permissão de leitura, escrita e execução nos diretórios de departamentos aos quais não pertencem;  
 
 
 
